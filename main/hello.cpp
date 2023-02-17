@@ -5,6 +5,6 @@ using namespace std;
 int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
-  cout << "I have successfully changed the file and it is running automatically\n";
+  cout << "This is the Chnaged file\n";
   return 0;
 }
